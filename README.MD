@@ -3,7 +3,7 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluno na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
 
 <a href="https://github.com/Felipe-888/prompts-recipe-to-create-a-ebook/blob/main/output/Ebook%20-%20Gatos%20-%20O%20Encanto%20por%20Trás%20dos%20Bigodes.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
