@@ -29,7 +29,8 @@ Bing：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+|  título  | Um rosto de um gato cinza com fundo de cor uniforme. |
+| conteúdo | Pág. 2: Um gato brincando com fundo branco e bordas brancas. Pág. 8: Uma foto de um gato dormindo. A foto deve ter fundo branco e bordas brancas. Pág. 9: Uma foto de um gato brincando com um brinquedo, com fundo branco e bordas brancas. |
 
 ## ✨ Features
 
