@@ -25,7 +25,7 @@ ChatGPT：
 | conteúdo | Crie um e-book completo sobre gatos, cujo título é "Gatos: O Encanto por Trás dos Bigodes". |
 
 
-Midjourney：
+Bing：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
